@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Inf Nuclear",
+		"uniqueTo": "Elf",
+		"replaces": "",
+		"unitType": "Bomber",
+		"movement": 320,
+		"strength": 3200,
+		"rangeStrength": 3200,
+		"range": 28,
+		"cost": 1,
+		"uniques": ["Nuclear weapon of Strength [28]", "Blast radius [8]"],
+	}
+]

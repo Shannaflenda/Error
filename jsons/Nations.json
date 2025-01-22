@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Elf",
+		"leaderName": "Elf Queen",
+		"preferredVictoryType": "Domination",
+		
+		"outerColor": [94, 198, 0],
+		"innerColor": [219, 255, 187],
+		
+		"uniqueName": "Inf Tech",
+		"uniques": [
+			"[-100]% Unhappiness from [Population] [in all cities]",
+			"[+320]% [Culture] [in all cities]",
+			"[+320]% [Science] [in all cities]",
+			"[+320]% [Gold] [in all cities]",
+			"[+320]% [Food] [in all cities]",
+			"[+320]% [Production] [in all cities]",
+			"[+320]% growth [in all cities]",
+			"[+320]% Strength <for [ALL] units>",
+			"[+320]% Golden Age length",
+			"[-100]% maintenance costs <for [ALL] units>",],
+		"cities": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
+				"N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"],
+	}
+]
